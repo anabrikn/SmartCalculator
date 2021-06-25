@@ -1,4 +1,5 @@
 # SmartCalculator
+Project on hyperskill: https://hyperskill.org/projects/42?track=1
 
  - About
 Calculators are a very helpful tool that we all use on a regular basis. 
